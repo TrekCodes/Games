@@ -144,7 +144,7 @@ def get_text_pc(i, j, gb, l1, l2):
     elif (isfull()):
         gb.destroy()
         x = False
-        box = messagebox.showinfo("Tie Game", "Tie Game")
+        box = messagebox.showinfo("Draw Game", "Draw Game")
     if (x):
         if sign % 2 != 0:
             move = pc()
