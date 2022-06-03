@@ -1,4 +1,4 @@
-# Games
+# Develop Games Using Python
 
 Python is a well-known programming language. 
 Python is very easy to understand and code. It is believed to be developer-friendly.
